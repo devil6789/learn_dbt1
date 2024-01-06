@@ -19,3 +19,4 @@ Chào bạn, mình là [Vịt làm Data](https://www.youtube.com/@vitlamdata?sub
 
 ### Nhân tiện, mình có khóa học về [Xử lý dữ liệu cho Data Warehouse](https://vitlamdata.substack.com/p/khoa-hoc-xu-ly-du-lieu-cho-data-warehouse). Trong khóa học này, mình sẽ dùng DBT (yay 🤟) để hướng dẫn mọi người cách xử lý dữ liệu trên Data Warehouse bằng SQL+DBT theo chuẩn [Dimensional Modeling](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) của bác Kimball nha 😄.
 ### Nếu bạn quan tâm có thể [tham khảo thêm ở đây](https://vitlamdata.substack.com/p/khoa-hoc-xu-ly-du-lieu-cho-data-warehouse) nha 🥰.
+"# learn_dbt1" 
